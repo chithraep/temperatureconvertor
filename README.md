@@ -1,4 +1,4 @@
-# temperatureconvertor
+# temperature-convertor
 
 BHARATH INTERNSHIP WEB DEVOLOPMENT
 
